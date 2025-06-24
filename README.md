@@ -7,3 +7,5 @@ main.py deals with the application's main logic, such as the game loop, user inp
 functions.py has all the reusable elements like sorting algorithm functions, array drawing logic, custom input, and array generation.
 
 Together, these files comprise a tidy, modular codebase that not only makes the visualizer simple to run but simple to modify or extend. You're a learning beginner with sorting, a teacher illustrating ideas in class, or a dev learning about Pygame; Bhagya's Sortmaster provides a colorful, interactive means of exploring algorithmic thinking.
+
+It also contain output video of bubble,merge and quick  sort.
